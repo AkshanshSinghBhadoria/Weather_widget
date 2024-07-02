@@ -9,7 +9,7 @@ export default function WeatherApp() {
         temp: 34.39,
         minTemp: 34.39,
         maxTemp: 34.39,
-        humidity: 52,
+        humidity: 30,
         weather: "overcast clouds",
     });
 
